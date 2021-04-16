@@ -1,0 +1,34 @@
+.container-fluid a{
+   margin: auto;
+   font-weight:700;
+}
+
+.container{
+   min-width: 600px;
+   align-items: center;
+   display: flex;
+}
+
+form{
+   margin-top: 5%;
+   min-width: 250px;
+   width: 300px;
+   margin-right:10%;
+}
+
+form button{
+   width: 100%;
+}
+
+img{
+   align-items: flex-start;
+   justify-content: center;
+}
+
+
+.resultado p{
+   margin-top: 5%;
+   height: 130px;
+   background-color: #EEE9E9;
+   box-shadow: 1px 1px 1px #999;
+}
